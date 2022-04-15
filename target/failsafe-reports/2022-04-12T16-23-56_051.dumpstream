@@ -1,0 +1,4 @@
+# Created at 2022-04-12T16:24:00.980
+Boot Manifest-JAR contains absolute paths in classpath 'E:\CACA\COURSE\Alterra - Quality Engineering\serenity-web-meilisa\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
